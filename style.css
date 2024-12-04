@@ -1,0 +1,32 @@
+.container{
+  height: 500px;
+  background-image: url("nature.jpg");
+  margin: 20px auto;
+  border-radius: 20px;
+}
+.btng{
+  height: 40px;
+  font-family: 'arial';
+  font-size: large;
+  border-radius: 5px;
+  border: solid 1px rgb(8, 101, 132);
+  backdrop-filter: blur(155px);
+  background: rgba(255,255,255, 0.2)
+}
+.quote-sec{
+  margin-bottom: 0;
+  height: 40%;
+  backdrop-filter: blur(15px);
+  background: rgba(255,255,255, 0.2)
+}
+.quote{
+  font-weight: bold;
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.auther{
+  color: aliceblue;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration:darkblue;
+}
